@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
- "$basetexture" "vgui/pam/img_random_option"
+ "$basetexture" "vgui/pam/special_options/img_random_option"
  "$vertexcolor" 1
  "$vertexalpha" 1
  "$translucent" 1

@@ -1,4 +1,3 @@
 if SERVER then
-	resource.AddFile("materials/vgui/pam/img_random_option.vmt")
+	resource.AddFile("materials/vgui/pam/special_options/img_random_option.vmt")
 end
-
