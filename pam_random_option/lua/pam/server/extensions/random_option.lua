@@ -1,6 +1,6 @@
 local name = "random_option"
 PAM_EXTENSION.name = name
-PAM_EXTENSION.enabled = false
+PAM_EXTENSION.enabled = true
 
 local allow_specials_setting = PAM.setting_namespace:AddChild(name):AddSetting("allow_specials", pacoman.TYPE_BOOLEAN, false)
 
